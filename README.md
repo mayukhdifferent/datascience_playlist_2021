@@ -6,7 +6,8 @@ Step by Step Free Youtube Channels for Learning Data Science
 
 
 Data Science Free Youtube Playlist - Beginner to Advanced (With Hands-On)
-Instructors: Krish Naik & Josh Starmer
+
+# Instructors: Krish Naik & Josh Starmer
 
 1  Complete Machine Learning Playlist:(Top 24 videos)
 https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
