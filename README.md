@@ -54,15 +54,16 @@ https://www.youtube.com/playlist?list=PLZoTAELRMXVP3lPoaTTAUBWLQp3Ju45rt
 
 
 
-Reference:
 
-Krish Naik Step-by- Step Playlist:
+# Reference:
+
+# Krish Naik Step-by- Step Playlist:
 
 Part I:  https://www.youtube.com/watch?v=ZwsK-rKIjwU
 
 Part II: https://www.youtube.com/watch?v=sld-QpwAHB0
 
-Josh Starmer Playlists: 
+# Josh Starmer Playlists: 
 
 https://www.youtube.com/c/joshstarmer/playlists
 
