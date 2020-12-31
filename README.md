@@ -1,4 +1,4 @@
-# Datascience Playlist for 2021
+# Data Science Playlist for 2021
 Step by Step Free Youtube Channels for Learning Data Science
 
 
