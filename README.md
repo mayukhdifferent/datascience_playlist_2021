@@ -1,10 +1,5 @@
 # Data Science Playlist for 2021
 Step by Step Free Youtube Channels for Learning Data Science
-
-
-
-
-
 Data Science Free Youtube Playlist - Beginner to Advanced (With Hands-On)
 
 # Instructors: Krish Naik & Josh Starmer
@@ -67,4 +62,5 @@ Part II: https://www.youtube.com/watch?v=sld-QpwAHB0
 
 https://www.youtube.com/c/joshstarmer/playlists
 
-
+# Medium
+https://mayukhdifferent.medium.com/data-science-playlist-for-2021-84470bbb4f1
