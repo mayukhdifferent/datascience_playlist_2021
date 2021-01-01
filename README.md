@@ -9,7 +9,7 @@ Data Science Free Youtube Playlist - Beginner to Advanced (With Hands-On)
 
 # Instructors: Krish Naik & Josh Starmer
 
-1  Complete Machine Learning Playlist:(Top 24 videos)
+1  Complete Machine Learning Playlist:(Top 24 videos for Python Basics)
 https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
 
 2  Statistics in Machine Learning:(Understand some Concepts With Respect To Data)- Complete Playlist
